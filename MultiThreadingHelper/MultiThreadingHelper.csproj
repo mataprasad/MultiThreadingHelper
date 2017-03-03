@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MultiThreadingNamedHelper.cs" />
     <Compile Include="MultiThreadingHelper.cs" />
     <Compile Include="MultiThreadingHelperTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
